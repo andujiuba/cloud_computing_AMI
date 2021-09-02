@@ -10,3 +10,5 @@ in gitbash: ssh -i "sre_key.pem" ubuntu@ec2-54-228-85-20.eu-west-1.compute.amazo
 To Research:
 
 - What is an AMI?
+
+AWS introduction - EC2 instances - Security groups-inbound and outbound rules, 2 tier architecture deployment - node -app frontend, mongodb as backend - step by step guide how to deploy 2tier app on aws, building AMIs
